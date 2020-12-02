@@ -1,0 +1,13 @@
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\bin\Debug\netcoreapp3.1\LocalizaNumeroMayor.exe
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\bin\Debug\netcoreapp3.1\LocalizaNumeroMayor.deps.json
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\bin\Debug\netcoreapp3.1\LocalizaNumeroMayor.runtimeconfig.json
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\bin\Debug\netcoreapp3.1\LocalizaNumeroMayor.runtimeconfig.dev.json
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\bin\Debug\netcoreapp3.1\LocalizaNumeroMayor.dll
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\bin\Debug\netcoreapp3.1\LocalizaNumeroMayor.pdb
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\obj\Debug\netcoreapp3.1\LocalizaNumeroMayor.csprojAssemblyReference.cache
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\obj\Debug\netcoreapp3.1\LocalizaNumeroMayor.csproj.CoreCompileInputs.cache
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\obj\Debug\netcoreapp3.1\LocalizaNumeroMayor.AssemblyInfoInputs.cache
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\obj\Debug\netcoreapp3.1\LocalizaNumeroMayor.AssemblyInfo.cs
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\obj\Debug\netcoreapp3.1\LocalizaNumeroMayor.dll
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\obj\Debug\netcoreapp3.1\LocalizaNumeroMayor.pdb
+C:\Users\USR\Documents\Tec\LocalizaNumeroMayor\LocalizaNumeroMayor\obj\Debug\netcoreapp3.1\LocalizaNumeroMayor.genruntimeconfig.cache
